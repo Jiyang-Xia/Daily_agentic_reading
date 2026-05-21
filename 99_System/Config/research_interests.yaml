@@ -1,0 +1,70 @@
+language: "zh"
+vault_path: "/home/ubuntu/literature_archive"
+papers_dir: "20_Research/Papers"
+
+research_domains:
+  "Large Language Models (LLM)":
+    keywords:
+      - "large language model"
+      - "LLM"
+      - "transformer"
+      - "pre-training"
+      - "fine-tuning"
+      - "instruction tuning"
+      - "scaling law"
+      - "foundation model"
+      - "in-context learning"
+      - "chain-of-thought"
+      - "CoT"
+      - "reasoning"
+    arxiv_categories:
+      - "cs.CL"
+      - "cs.AI"
+      - "cs.LG"
+    priority: 5
+
+  "LLM Reinforcement Learning":
+    keywords:
+      - "reinforcement learning"
+      - "RLHF"
+      - "RL"
+      - "reward model"
+      - "policy optimization"
+      - "PPO"
+      - "DPO"
+      - "GRPO"
+      - "preference learning"
+      - "human feedback"
+      - "alignment"
+      - "direct preference optimization"
+      - "proximal policy optimization"
+    arxiv_categories:
+      - "cs.LG"
+      - "cs.AI"
+      - "cs.CL"
+    priority: 5
+
+  "AI Agents & Autonomous Systems":
+    keywords:
+      - "agent"
+      - "multi-agent"
+      - "orchestration"
+      - "autonomous"
+      - "planning"
+      - "tool use"
+      - "function calling"
+      - "agentic"
+      - "workflow"
+      - "self-improvement"
+      - "self-evolving"
+      - "LLM agent"
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.MA"
+      - "cs.CL"
+    priority: 5
+
+excluded_keywords:
+  - "workshop"
+  - "survey"
+  - "tutorial"
