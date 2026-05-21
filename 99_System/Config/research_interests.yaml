@@ -58,6 +58,8 @@ research_domains:
       - "self-improvement"
       - "self-evolving"
       - "LLM agent"
+      - "Data Agent"
+      - "data agent"
     arxiv_categories:
       - "cs.AI"
       - "cs.MA"
