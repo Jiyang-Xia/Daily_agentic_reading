@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "2605.25977",
+      "title": "Creative Quality Alignment: Expert Tacit Knowledge Transfer via Chain-of-Thought Fine-Tuning",
+      "year": 2026,
+      "domain": "Large Language Models (LLM)",
+      "quality_score": 8.5,
+      "tags": [
+        "论文笔记",
+        "Large Language Models (LLM)"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "2605.25955",
+      "title": "QUIET: A Multi-Blank Cascaded Story Cloze Benchmark for LLM Creative Generation Capability",
+      "year": 2026,
+      "domain": "Large Language Models (LLM)",
+      "quality_score": 8.8,
+      "tags": [
+        "论文笔记",
+        "Large Language Models (LLM)"
+      ],
+      "analyzed": true
+    }
+  ],
+  "edges": [],
+  "last_updated": "2026-05-27"
+}
